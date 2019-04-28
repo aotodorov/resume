@@ -1,0 +1,35 @@
+| Name:    | Anton Todorov                    |
+| Mobile:  | 04 2347 2568                     |
+| Email:   | anton@openfab.com.au             |
+
+
+I have eight years experience working within data science/big data environments,
+with a focus on Python and Linux/Cloud environments. The projects I have worked on
+have spanned the scale from single developer short term contracts to transform 
+a business critical spreadsheet to a distributed application, to large 
+200+ person teams working on production systems dealing with tens of terabytes of
+daily data with data lakes containing hundreds of petabytes. 
+
+I have previous experience in energy, finance, telecommunications and heavy industry 
+firms and startup experience in advanced manufacturing. 
+
+Currently I am the lead data engineer on a project leveraging AWS/Python to develop data
+insights from historical and real time data from the energy market, leading a team of 
+two data scientists and three data engineers. 
+
+Please find the attached resume for further details, with keypoints:
+
++ Mastery of Python and Linux
++ Performance tuning of Python applications (and alternative Python compilers cython, pypy, jpython).
++ Familiarity with Spark (and PySpark bindings at a developer level).
++ Highly proficient in AWS (EC2, S3, Redshift, Glue, PySpark (EMR), Kenesis, etc)
++ CI/CD - on prem with Jenkins, on AWS with code* collection with misc helper tools (Ansible, Packer, etc).
++ Cloud infrastructure deployment using CloudFormation/Terraform/Troposphere
++ Experience with real time big data using Kafka/Flume (lift and shift to AWS)
++ Current experience in architecting and building Lambda+StepFunctoin serverless applications in AWS.
++ Industry experience with agile scrum methodologies.
+
+  
+*Expected daily rate:* $1250pd + GST.
+
+*Availability*: ~2 weeks. 
